@@ -9,3 +9,5 @@ The final score on kaggle with the predictions from this notebook was 0.76315.
 
 # May 30th, 2025 - EU State GDP Per Capita Visualization
 I obtained GDP per capita data from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table?lang=en). Data is available in high resolution in individual NUTS 3 regions, but to provide a simplified overview, I went for the country level for this one. Using Plotly, I created an interactive map that displays the evolution over the years 2014-2023. 
+
+By rendering the map as a png within the workbook, you can view it on here. For the interactive maps, the code needs to be executed locally.
