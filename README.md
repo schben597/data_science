@@ -1,6 +1,9 @@
 # My Data Science Projects
 This is where I share my progress in data science techniques and present the projects I am working on.
 
+# June 2nd, 2025
+European annual air pollution data by country taken from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/env_air_emis__custom_16946228/default/table?lang=en)
+
 # May 30th, 2025 - EU State GDP Per Capita Visualization
 I obtained GDP per capita data from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table?lang=en). Data is available in high resolution in individual NUTS 3 regions, but to provide a simplified overview, I went for the country level for this one. Using Plotly, I created an interactive map that displays the evolution over the years 2014-2023. 
 
