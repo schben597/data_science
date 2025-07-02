@@ -1,8 +1,15 @@
 # My Data Science Projects
 This is where I share my progress in data science techniques and present the projects I am working on.
 
+# July 2nd, 2025
+Data analysis and workup performed for my Master's thesis at [UPF](https://www.upf.edu/en/web/masterbiomedupf).
+Raw data consists of two heating cycles, with absorbance readings at 350 nm taken every minute for each sample condition. I added buffer blanks to adjust for condensation forming on the plate during the first minutes of the measurement. The data, after subtracting the buffer curves, appears jumpy, so I applied a curve-smoothing protocol to fit a logistic function. With the logistic in place, I can calculate the plateau and draw further insights.
+
+
 # June 2nd, 2025
-European annual air pollution data by country taken from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/env_air_emis__custom_16946228/default/table?lang=en)
+Building on previous visualizations, incorporating air quality data. European annual air pollution data by country taken from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/env_air_emis__custom_16946228/default/table?lang=en)
+Experimenting with different map types and looking at the relationship between GDP per capita and emissions per capita. 
+
 
 # May 30th, 2025 - EU State GDP Per Capita Visualization
 I obtained GDP per capita data from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table?lang=en). Data is available in high resolution in individual NUTS 3 regions, but to provide a simplified overview, I went for the country level for this one. Using Plotly, I created an interactive map that displays the evolution over the years 2014-2023. 
