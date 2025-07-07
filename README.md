@@ -7,7 +7,7 @@ Raw data consists of two heating cycles, with absorbance readings at 350 nm take
 
 
 # June 2nd, 2025
-Building on previous visualizations, incorporating air quality data. European annual air pollution data by country taken from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/env_air_emis__custom_16946228/default/table?lang=en)
+Building on previous visualizations, incorporating air quality data. European annual air pollution data by country taken from [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/env_air_emis__custom_16946228/default/table?lang=en).
 Experimenting with different map types and looking at the relationship between GDP per capita and emissions per capita. 
 
 
